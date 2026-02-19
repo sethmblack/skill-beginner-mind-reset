@@ -3,7 +3,7 @@ name: beginner-mind-reset
 description: Help someone approach a familiar problem with fresh perspective by deliberately setting aside expertise and assumptions.
 license: MIT
 metadata:
-  version: 1.0.3453
+  version: 1.0.3454
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
